@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+}
+
+.card_numbers button {
+    display: block;
+    margin: 0 auto;
+}
+
+.card_numbers table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.card_numbers td {
+    width: 70px;
+    height: 70px;
+    border: black 2px solid;
+    background-color: bisque;
+    padding: 2px;
+}
+
+.buttons {
+    text-align: center;
+    padding: 5px;
+    display: none;
+}
